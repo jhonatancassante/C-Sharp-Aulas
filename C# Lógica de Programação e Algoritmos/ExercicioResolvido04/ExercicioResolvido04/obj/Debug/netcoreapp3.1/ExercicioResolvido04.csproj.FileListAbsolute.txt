@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\ExercicioResolvido04\ExercicioResolvido04\bin\Debug\netcoreapp3.1\ExercicioResolvido04.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\ExercicioResolvido04\ExercicioResolvido04\bin\Debug\netcoreapp3.1\ExercicioResolvido04.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\ExercicioResolvido04\ExercicioResolvido04\bin\Debug\netcoreapp3.1\ExercicioResolvido04.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\ExercicioResolvido04\ExercicioResolvido04\bin\Debug\netcoreapp3.1\ExercicioResolvido04.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\ExercicioResolvido04\ExercicioResolvido04\bin\Debug\netcoreapp3.1\ExercicioResolvido04.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\ExercicioResolvido04\ExercicioResolvido04\bin\Debug\netcoreapp3.1\ExercicioResolvido04.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\netcoreapp3.1\ExercicioResolvido04.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\netcoreapp3.1\ExercicioResolvido04.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\netcoreapp3.1\ExercicioResolvido04.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\netcoreapp3.1\ExercicioResolvido04.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\ExercicioResolvido04\ExercicioResolvido04\obj\Debug\netcoreapp3.1\ExercicioResolvido04.pdb

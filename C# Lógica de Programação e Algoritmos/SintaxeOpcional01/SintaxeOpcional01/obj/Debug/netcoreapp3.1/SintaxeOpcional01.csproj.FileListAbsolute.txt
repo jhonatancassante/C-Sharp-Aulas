@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\SintaxeOpcional01\SintaxeOpcional01\bin\Debug\netcoreapp3.1\SintaxeOpcional01.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\SintaxeOpcional01\SintaxeOpcional01\bin\Debug\netcoreapp3.1\SintaxeOpcional01.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\SintaxeOpcional01\SintaxeOpcional01\bin\Debug\netcoreapp3.1\SintaxeOpcional01.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\SintaxeOpcional01\SintaxeOpcional01\bin\Debug\netcoreapp3.1\SintaxeOpcional01.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\SintaxeOpcional01\SintaxeOpcional01\bin\Debug\netcoreapp3.1\SintaxeOpcional01.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\SintaxeOpcional01\SintaxeOpcional01\bin\Debug\netcoreapp3.1\SintaxeOpcional01.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\SintaxeOpcional01\SintaxeOpcional01\obj\Debug\netcoreapp3.1\SintaxeOpcional01.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\SintaxeOpcional01\SintaxeOpcional01\obj\Debug\netcoreapp3.1\SintaxeOpcional01.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\SintaxeOpcional01\SintaxeOpcional01\obj\Debug\netcoreapp3.1\SintaxeOpcional01.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\SintaxeOpcional01\SintaxeOpcional01\obj\Debug\netcoreapp3.1\SintaxeOpcional01.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\SintaxeOpcional01\SintaxeOpcional01\obj\Debug\netcoreapp3.1\SintaxeOpcional01.pdb

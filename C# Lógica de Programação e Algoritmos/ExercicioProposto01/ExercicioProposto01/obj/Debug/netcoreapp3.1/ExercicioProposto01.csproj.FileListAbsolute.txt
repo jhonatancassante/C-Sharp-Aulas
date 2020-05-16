@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\bin\Debug\netcoreapp3.1\ExercicioProposto01.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\bin\Debug\netcoreapp3.1\ExercicioProposto01.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\bin\Debug\netcoreapp3.1\ExercicioProposto01.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\bin\Debug\netcoreapp3.1\ExercicioProposto01.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\bin\Debug\netcoreapp3.1\ExercicioProposto01.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\bin\Debug\netcoreapp3.1\ExercicioProposto01.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\obj\Debug\netcoreapp3.1\ExercicioProposto01.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\obj\Debug\netcoreapp3.1\ExercicioProposto01.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\obj\Debug\netcoreapp3.1\ExercicioProposto01.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\obj\Debug\netcoreapp3.1\ExercicioProposto01.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\obj\Debug\netcoreapp3.1\ExercicioProposto01.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\obj\Debug\netcoreapp3.1\ExercicioProposto01.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto01\ExercicioProposto01\obj\Debug\netcoreapp3.1\ExercicioProposto01.genruntimeconfig.cache

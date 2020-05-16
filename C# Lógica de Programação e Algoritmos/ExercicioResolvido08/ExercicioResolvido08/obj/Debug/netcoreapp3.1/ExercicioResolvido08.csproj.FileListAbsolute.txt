@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\bin\Debug\netcoreapp3.1\ExercicioResolvido08.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\bin\Debug\netcoreapp3.1\ExercicioResolvido08.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\bin\Debug\netcoreapp3.1\ExercicioResolvido08.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\bin\Debug\netcoreapp3.1\ExercicioResolvido08.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\bin\Debug\netcoreapp3.1\ExercicioResolvido08.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\bin\Debug\netcoreapp3.1\ExercicioResolvido08.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\obj\Debug\netcoreapp3.1\ExercicioResolvido08.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\obj\Debug\netcoreapp3.1\ExercicioResolvido08.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\obj\Debug\netcoreapp3.1\ExercicioResolvido08.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\obj\Debug\netcoreapp3.1\ExercicioResolvido08.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\obj\Debug\netcoreapp3.1\ExercicioResolvido08.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido08\ExercicioResolvido08\obj\Debug\netcoreapp3.1\ExercicioResolvido08.genruntimeconfig.cache

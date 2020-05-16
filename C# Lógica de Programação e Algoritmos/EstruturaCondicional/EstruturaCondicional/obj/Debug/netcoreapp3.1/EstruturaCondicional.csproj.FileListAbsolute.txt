@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.1\EstruturaCondicional.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.1\EstruturaCondicional.pdb

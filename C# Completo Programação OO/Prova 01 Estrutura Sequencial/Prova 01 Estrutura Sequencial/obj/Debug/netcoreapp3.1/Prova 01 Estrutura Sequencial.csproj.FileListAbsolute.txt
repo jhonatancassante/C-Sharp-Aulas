@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\obj\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\obj\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\obj\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\obj\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\bin\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\bin\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\bin\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\bin\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\bin\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\bin\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\obj\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\obj\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 01 Estrutura Sequencial\Prova 01 Estrutura Sequencial\obj\Debug\netcoreapp3.1\Prova 01 Estrutura Sequencial.genruntimeconfig.cache

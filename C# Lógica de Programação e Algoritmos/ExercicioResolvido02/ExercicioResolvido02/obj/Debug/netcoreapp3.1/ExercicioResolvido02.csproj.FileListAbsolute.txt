@@ -1,0 +1,10 @@
+C:\Users\jhona\source\repos\ExercicioResolvido02\ExercicioResolvido02\bin\Debug\netcoreapp3.1\ExercicioResolvido02.exe
+C:\Users\jhona\source\repos\ExercicioResolvido02\ExercicioResolvido02\bin\Debug\netcoreapp3.1\ExercicioResolvido02.deps.json
+C:\Users\jhona\source\repos\ExercicioResolvido02\ExercicioResolvido02\bin\Debug\netcoreapp3.1\ExercicioResolvido02.runtimeconfig.json
+C:\Users\jhona\source\repos\ExercicioResolvido02\ExercicioResolvido02\bin\Debug\netcoreapp3.1\ExercicioResolvido02.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\ExercicioResolvido02\ExercicioResolvido02\bin\Debug\netcoreapp3.1\ExercicioResolvido02.dll
+C:\Users\jhona\source\repos\ExercicioResolvido02\ExercicioResolvido02\bin\Debug\netcoreapp3.1\ExercicioResolvido02.pdb
+C:\Users\jhona\source\repos\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\netcoreapp3.1\ExercicioResolvido02.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\netcoreapp3.1\ExercicioResolvido02.AssemblyInfo.cs
+C:\Users\jhona\source\repos\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\netcoreapp3.1\ExercicioResolvido02.dll
+C:\Users\jhona\source\repos\ExercicioResolvido02\ExercicioResolvido02\obj\Debug\netcoreapp3.1\ExercicioResolvido02.pdb

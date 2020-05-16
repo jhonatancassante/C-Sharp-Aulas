@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\bin\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\bin\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\bin\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\bin\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\bin\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\bin\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\obj\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\obj\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\obj\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\obj\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\obj\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\obj\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Secão 2 - Primeiro Programa\Secão 2 - Primeiro Programa\obj\Debug\netcoreapp3.1\Secão 2 - Primeiro Programa.genruntimeconfig.cache

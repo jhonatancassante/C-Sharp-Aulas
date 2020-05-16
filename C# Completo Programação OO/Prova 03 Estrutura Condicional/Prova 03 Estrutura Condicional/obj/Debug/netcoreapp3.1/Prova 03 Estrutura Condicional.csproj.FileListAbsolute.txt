@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\bin\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\bin\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\bin\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\bin\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\bin\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\bin\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\obj\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\obj\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\obj\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\obj\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\obj\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 03 Estrutura Condicional\Prova 03 Estrutura Condicional\obj\Debug\netcoreapp3.1\Prova 03 Estrutura Condicional.genruntimeconfig.cache

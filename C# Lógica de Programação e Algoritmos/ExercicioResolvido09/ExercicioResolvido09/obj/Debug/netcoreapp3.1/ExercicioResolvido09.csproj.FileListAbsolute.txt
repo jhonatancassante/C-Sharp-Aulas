@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\bin\Debug\netcoreapp3.1\ExercicioResolvido09.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\bin\Debug\netcoreapp3.1\ExercicioResolvido09.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\bin\Debug\netcoreapp3.1\ExercicioResolvido09.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\bin\Debug\netcoreapp3.1\ExercicioResolvido09.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\bin\Debug\netcoreapp3.1\ExercicioResolvido09.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\bin\Debug\netcoreapp3.1\ExercicioResolvido09.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\obj\Debug\netcoreapp3.1\ExercicioResolvido09.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\obj\Debug\netcoreapp3.1\ExercicioResolvido09.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\obj\Debug\netcoreapp3.1\ExercicioResolvido09.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\obj\Debug\netcoreapp3.1\ExercicioResolvido09.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\obj\Debug\netcoreapp3.1\ExercicioResolvido09.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\obj\Debug\netcoreapp3.1\ExercicioResolvido09.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioResolvido09\ExercicioResolvido09\obj\Debug\netcoreapp3.1\ExercicioResolvido09.genruntimeconfig.cache

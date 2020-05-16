@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Prova 02 Estrutura Sequencial/1.0.0": {
+        "runtime": {
+          "Prova 02 Estrutura Sequencial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prova 02 Estrutura Sequencial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

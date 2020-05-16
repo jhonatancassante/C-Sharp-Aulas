@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaWhile.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\bin\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\bin\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\bin\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\bin\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\bin\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\bin\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\obj\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\obj\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\obj\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\obj\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\obj\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Completo Programação OO\Prova 6 Estrutura Repetitiva\Prova 6 Estrutura Repetitiva\obj\Debug\netcoreapp3.1\Prova 6 Estrutura Repetitiva.genruntimeconfig.cache

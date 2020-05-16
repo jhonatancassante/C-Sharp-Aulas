@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\Processamento de Dados\Processamento de Dados\bin\Debug\netcoreapp3.1\Processamento de Dados.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\Processamento de Dados\Processamento de Dados\bin\Debug\netcoreapp3.1\Processamento de Dados.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\Processamento de Dados\Processamento de Dados\bin\Debug\netcoreapp3.1\Processamento de Dados.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\Processamento de Dados\Processamento de Dados\bin\Debug\netcoreapp3.1\Processamento de Dados.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\Processamento de Dados\Processamento de Dados\bin\Debug\netcoreapp3.1\Processamento de Dados.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\Processamento de Dados\Processamento de Dados\bin\Debug\netcoreapp3.1\Processamento de Dados.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\Processamento de Dados\Processamento de Dados\obj\Debug\netcoreapp3.1\Processamento de Dados.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\Processamento de Dados\Processamento de Dados\obj\Debug\netcoreapp3.1\Processamento de Dados.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\Processamento de Dados\Processamento de Dados\obj\Debug\netcoreapp3.1\Processamento de Dados.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\Processamento de Dados\Processamento de Dados\obj\Debug\netcoreapp3.1\Processamento de Dados.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\Processamento de Dados\Processamento de Dados\obj\Debug\netcoreapp3.1\Processamento de Dados.csprojAssemblyReference.cache

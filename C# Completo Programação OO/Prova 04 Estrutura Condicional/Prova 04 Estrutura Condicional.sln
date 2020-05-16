@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova 04 Estrutura Condicional", "Prova 04 Estrutura Condicional\Prova 04 Estrutura Condicional.csproj", "{DA7160F8-3F06-484D-B81B-1057D4695C82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA7160F8-3F06-484D-B81B-1057D4695C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7160F8-3F06-484D-B81B-1057D4695C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7160F8-3F06-484D-B81B-1057D4695C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7160F8-3F06-484D-B81B-1057D4695C82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43FF00C6-C3A2-4901-8C1F-5F8F12262532}
+	EndGlobalSection
+EndGlobal

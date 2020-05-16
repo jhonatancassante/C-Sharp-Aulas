@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\bin\Debug\netcoreapp3.1\ExercicioProposto04.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\bin\Debug\netcoreapp3.1\ExercicioProposto04.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\bin\Debug\netcoreapp3.1\ExercicioProposto04.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\bin\Debug\netcoreapp3.1\ExercicioProposto04.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\bin\Debug\netcoreapp3.1\ExercicioProposto04.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\bin\Debug\netcoreapp3.1\ExercicioProposto04.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\obj\Debug\netcoreapp3.1\ExercicioProposto04.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\obj\Debug\netcoreapp3.1\ExercicioProposto04.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\obj\Debug\netcoreapp3.1\ExercicioProposto04.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\obj\Debug\netcoreapp3.1\ExercicioProposto04.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\obj\Debug\netcoreapp3.1\ExercicioProposto04.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\ExercicioProposto04\ExercicioProposto04\obj\Debug\netcoreapp3.1\ExercicioProposto04.genruntimeconfig.cache

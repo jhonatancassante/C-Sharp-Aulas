@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Prova 6 Estrutura Repetitiva/1.0.0": {
+        "runtime": {
+          "Prova 6 Estrutura Repetitiva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prova 6 Estrutura Repetitiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

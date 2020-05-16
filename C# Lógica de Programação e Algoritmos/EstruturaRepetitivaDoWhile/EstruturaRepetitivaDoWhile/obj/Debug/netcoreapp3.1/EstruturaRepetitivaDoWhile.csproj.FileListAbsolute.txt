@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.exe
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.deps.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\bin\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.dll
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.pdb
+C:\Users\Jhonatan\OneDrive\Udemy\C# Lógica de Programação e Algoritmos\EstruturaRepetitivaDoWhile\EstruturaRepetitivaDoWhile\obj\Debug\netcoreapp3.1\EstruturaRepetitivaDoWhile.genruntimeconfig.cache

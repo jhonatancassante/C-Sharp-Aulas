@@ -1,0 +1,11 @@
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.exe
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.deps.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.runtimeconfig.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\primeiro-projeto\bin\Debug\netcoreapp3.1\primeiro-projeto.pdb
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.dll
+C:\Users\jhona\OneDrive\Udemy\C# Primeiros Passos - Lógica de Programação e Algoritmos\primeiro-projeto\obj\Debug\netcoreapp3.1\primeiro-projeto.pdb
