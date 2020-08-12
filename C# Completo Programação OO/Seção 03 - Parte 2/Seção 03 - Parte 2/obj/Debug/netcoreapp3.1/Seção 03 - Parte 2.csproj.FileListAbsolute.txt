@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\bin\Debug\netcoreapp3.1\Seção 03 - Parte 2.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\bin\Debug\netcoreapp3.1\Seção 03 - Parte 2.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\bin\Debug\netcoreapp3.1\Seção 03 - Parte 2.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\bin\Debug\netcoreapp3.1\Seção 03 - Parte 2.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\bin\Debug\netcoreapp3.1\Seção 03 - Parte 2.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\bin\Debug\netcoreapp3.1\Seção 03 - Parte 2.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\obj\Debug\netcoreapp3.1\Seção 03 - Parte 2.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\obj\Debug\netcoreapp3.1\Seção 03 - Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\obj\Debug\netcoreapp3.1\Seção 03 - Parte 2.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\obj\Debug\netcoreapp3.1\Seção 03 - Parte 2.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\obj\Debug\netcoreapp3.1\Seção 03 - Parte 2.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\obj\Debug\netcoreapp3.1\Seção 03 - Parte 2.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Seção 03 - Parte 2\Seção 03 - Parte 2\obj\Debug\netcoreapp3.1\Seção 03 - Parte 2.genruntimeconfig.cache

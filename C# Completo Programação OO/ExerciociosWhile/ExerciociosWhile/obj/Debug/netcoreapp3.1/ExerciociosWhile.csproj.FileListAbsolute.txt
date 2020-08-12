@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\bin\Debug\netcoreapp3.1\ExerciociosWhile.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\bin\Debug\netcoreapp3.1\ExerciociosWhile.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\bin\Debug\netcoreapp3.1\ExerciociosWhile.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\bin\Debug\netcoreapp3.1\ExerciociosWhile.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\bin\Debug\netcoreapp3.1\ExerciociosWhile.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\bin\Debug\netcoreapp3.1\ExerciociosWhile.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\obj\Debug\netcoreapp3.1\ExerciociosWhile.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\obj\Debug\netcoreapp3.1\ExerciociosWhile.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\obj\Debug\netcoreapp3.1\ExerciociosWhile.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\obj\Debug\netcoreapp3.1\ExerciociosWhile.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\obj\Debug\netcoreapp3.1\ExerciociosWhile.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\obj\Debug\netcoreapp3.1\ExerciociosWhile.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\ExerciociosWhile\ExerciociosWhile\obj\Debug\netcoreapp3.1\ExerciociosWhile.genruntimeconfig.cache

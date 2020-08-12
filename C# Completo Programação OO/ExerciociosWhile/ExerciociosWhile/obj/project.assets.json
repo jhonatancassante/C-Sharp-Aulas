@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Lógica de Programação e Algoritmos\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj",
-      "projectName": "EntradaDeDados",
-      "projectPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Lógica de Programação e Algoritmos\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj",
+      "projectUniqueName": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\ExerciociosWhile\\ExerciociosWhile\\ExerciociosWhile.csproj",
+      "projectName": "ExerciociosWhile",
+      "projectPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\ExerciociosWhile\\ExerciociosWhile\\ExerciociosWhile.csproj",
       "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Lógica de Programação e Algoritmos\\EntradaDeDados\\EntradaDeDados\\obj\\",
+      "outputPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\ExerciociosWhile\\ExerciociosWhile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

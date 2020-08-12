@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Lógica de Programação e Algoritmos\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj",
-      "projectName": "EntradaDeDados",
-      "projectPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Lógica de Programação e Algoritmos\\EntradaDeDados\\EntradaDeDados\\EntradaDeDados.csproj",
+      "projectUniqueName": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\ExercicioSequencial01\\ExercicioSequencial01\\ExercicioSequencial01.csproj",
+      "projectName": "ExercicioSequencial01",
+      "projectPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\ExercicioSequencial01\\ExercicioSequencial01\\ExercicioSequencial01.csproj",
       "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Lógica de Programação e Algoritmos\\EntradaDeDados\\EntradaDeDados\\obj\\",
+      "outputPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\ExercicioSequencial01\\ExercicioSequencial01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
