@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\bin\Debug\netcoreapp3.1\A38-ExercicioResolvido.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\bin\Debug\netcoreapp3.1\A38-ExercicioResolvido.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\bin\Debug\netcoreapp3.1\A38-ExercicioResolvido.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\bin\Debug\netcoreapp3.1\A38-ExercicioResolvido.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\bin\Debug\netcoreapp3.1\A38-ExercicioResolvido.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\bin\Debug\netcoreapp3.1\A38-ExercicioResolvido.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\obj\Debug\netcoreapp3.1\A38-ExercicioResolvido.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\obj\Debug\netcoreapp3.1\A38-ExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\obj\Debug\netcoreapp3.1\A38-ExercicioResolvido.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\obj\Debug\netcoreapp3.1\A38-ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\obj\Debug\netcoreapp3.1\A38-ExercicioResolvido.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\obj\Debug\netcoreapp3.1\A38-ExercicioResolvido.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A38-ExercicioResolvido\A38-ExercicioResolvido\obj\Debug\netcoreapp3.1\A38-ExercicioResolvido.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.1\ExerciciosFor.exe
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.1\ExerciciosFor.deps.json
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.1\ExerciciosFor.runtimeconfig.json
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.1\ExerciciosFor.runtimeconfig.dev.json
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.1\ExerciciosFor.dll
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\bin\Debug\netcoreapp3.1\ExerciciosFor.pdb
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.1\ExerciciosFor.csprojAssemblyReference.cache
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.1\ExerciciosFor.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.1\ExerciciosFor.AssemblyInfo.cs
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.1\ExerciciosFor.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.1\ExerciciosFor.dll
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.1\ExerciciosFor.pdb
+C:\Users\Jhonatan\source\repos\ExerciciosFor\ExerciciosFor\obj\Debug\netcoreapp3.1\ExerciciosFor.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\bin\Debug\netcoreapp3.1\A42-SegundoProblema.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\bin\Debug\netcoreapp3.1\A42-SegundoProblema.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\bin\Debug\netcoreapp3.1\A42-SegundoProblema.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\bin\Debug\netcoreapp3.1\A42-SegundoProblema.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\bin\Debug\netcoreapp3.1\A42-SegundoProblema.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\bin\Debug\netcoreapp3.1\A42-SegundoProblema.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\obj\Debug\netcoreapp3.1\A42-SegundoProblema.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\obj\Debug\netcoreapp3.1\A42-SegundoProblema.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\obj\Debug\netcoreapp3.1\A42-SegundoProblema.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\obj\Debug\netcoreapp3.1\A42-SegundoProblema.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\obj\Debug\netcoreapp3.1\A42-SegundoProblema.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A42-SegundoProblema\A42-SegundoProblema\obj\Debug\netcoreapp3.1\A42-SegundoProblema.genruntimeconfig.cache
