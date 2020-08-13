@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\bin\Debug\netcoreapp3.1\Exercicio03.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\Exercicio03\Exercicio03\obj\Debug\netcoreapp3.1\Exercicio03.genruntimeconfig.cache
