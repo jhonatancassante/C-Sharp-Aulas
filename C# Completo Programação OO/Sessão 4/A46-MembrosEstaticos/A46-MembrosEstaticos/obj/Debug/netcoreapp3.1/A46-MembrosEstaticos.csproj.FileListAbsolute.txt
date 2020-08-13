@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\bin\Debug\netcoreapp3.1\A46-MembrosEstaticos.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\bin\Debug\netcoreapp3.1\A46-MembrosEstaticos.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\bin\Debug\netcoreapp3.1\A46-MembrosEstaticos.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\bin\Debug\netcoreapp3.1\A46-MembrosEstaticos.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\bin\Debug\netcoreapp3.1\A46-MembrosEstaticos.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\bin\Debug\netcoreapp3.1\A46-MembrosEstaticos.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\obj\Debug\netcoreapp3.1\A46-MembrosEstaticos.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\obj\Debug\netcoreapp3.1\A46-MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\obj\Debug\netcoreapp3.1\A46-MembrosEstaticos.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\obj\Debug\netcoreapp3.1\A46-MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\obj\Debug\netcoreapp3.1\A46-MembrosEstaticos.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\obj\Debug\netcoreapp3.1\A46-MembrosEstaticos.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 4\A46-MembrosEstaticos\A46-MembrosEstaticos\obj\Debug\netcoreapp3.1\A46-MembrosEstaticos.genruntimeconfig.cache
