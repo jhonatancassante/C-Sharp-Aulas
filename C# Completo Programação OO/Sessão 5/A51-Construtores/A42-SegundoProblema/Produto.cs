@@ -18,30 +18,23 @@
         }
         //Sobrecarga é quando você cria mais de um construtor
 
-        public string GetNome()
+        public string Nome
         {
-            return _nome;
-        }
-
-        public void SetNome(string nome)
-        {
-            if (nome != null && nome.Length > 1)
-            {
-                _nome = nome;
-            }
-            else
-            {
-                System.Console.WriteLine("O nome precisa ter mais de um caracter!");
+            get { return _nome; }
+            set {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
             }
         }
-
-        public double GetPreco()
+        public double Preco
         {
-            return _preco;
+            get { return _preco; }
         }
-        public int GetQuantidade()
+        public int Quantidade
         {
-            return _quantidade;
+            get { return _quantidade; }
         }
 
         public double ValorTotalEmEstoque()
