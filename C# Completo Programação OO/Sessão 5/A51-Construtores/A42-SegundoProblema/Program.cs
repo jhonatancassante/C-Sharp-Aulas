@@ -16,7 +16,8 @@ namespace A42_SegundoProblema
             Console.WriteLine();
             Produto p = new Produto(nome, preco, quantidade);
 
-            Console.WriteLine(p.Nome);
+            Console.WriteLine("Nome: " + p.Nome);
+            Console.Write("Digite o novo nome do produto: ");
             p.Nome = Console.ReadLine();
 
             Console.WriteLine("Dados do produto: " + p);

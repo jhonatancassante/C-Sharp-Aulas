@@ -3,8 +3,8 @@
     class Produto
     {
         private string _nome;
-        private double _preco;
-        private int _quantidade;
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
 
         public Produto()//Construtor padrão, se não tiver nenhum construtor, esse é válido mesmo se não tiver descrito
                         //Caso tenha algum outro construtor, esse não irá funcionar se não for escrito no código
@@ -13,8 +13,8 @@
         public Produto(string nome, double preco, int quantidade)//construtor com três argumentos
         {
             _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
+            Preco = preco;
+            Quantidade = quantidade;
         }
         //Sobrecarga é quando você cria mais de um construtor
 
@@ -28,37 +28,28 @@
                 }
             }
         }
-        public double Preco
-        {
-            get { return _preco; }
-        }
-        public int Quantidade
-        {
-            get { return _quantidade; }
-        }
-
         public double ValorTotalEmEstoque()
         {
-            return (double)_preco * _quantidade;
+            return (double)Preco * Quantidade;
         }
 
         public void AdicionarProdutos(int quantidade)
         {
-            _quantidade += quantidade;
+            Quantidade += quantidade;
         }
 
         public void RemoverProduto(int quantidade)
         {
-            _quantidade -= quantidade;
+            Quantidade -= quantidade;
         }
 
         public override string ToString()
         {
             return _nome
                 + ", $ "
-                + _preco.ToString("F2")
+                + Preco.ToString("F2")
                 + ", "
-                + _quantidade
+                + Quantidade
                 + " unidades, Total: $ "
                 + ValorTotalEmEstoque().ToString("F2");
         }
