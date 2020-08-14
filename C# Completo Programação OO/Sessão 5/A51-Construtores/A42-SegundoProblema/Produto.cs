@@ -2,10 +2,14 @@
 {
     class Produto
     {
+        //Atributos privados
         private string _nome;
+
+        //Propriedades autoimplementadas
         public double Preco { get; private set; }
         public int Quantidade { get; private set; }
 
+        //Construtores
         public Produto()//Construtor padrão, se não tiver nenhum construtor, esse é válido mesmo se não tiver descrito
                         //Caso tenha algum outro construtor, esse não irá funcionar se não for escrito no código
         {
@@ -15,9 +19,9 @@
             _nome = nome;
             Preco = preco;
             Quantidade = quantidade;
-        }
-        //Sobrecarga é quando você cria mais de um construtor
+        }//Sobrecarga é quando você cria mais de um construtor
 
+        //Propriedades customizadas
         public string Nome
         {
             get { return _nome; }
@@ -28,6 +32,8 @@
                 }
             }
         }
+
+        //Outros métodos da classe
         public double ValorTotalEmEstoque()
         {
             return (double)Preco * Quantidade;
