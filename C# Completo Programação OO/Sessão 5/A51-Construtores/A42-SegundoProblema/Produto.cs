@@ -2,48 +2,70 @@
 {
     class Produto
     {
-        public string Nome;
-        public double Preco;
-        public int Quantidade;
+        private string _nome;
+        private double _preco;
+        private int _quantidade;
 
         public Produto()//Construtor padrão, se não tiver nenhum construtor, esse é válido mesmo se não tiver descrito
                         //Caso tenha algum outro construtor, esse não irá funcionar se não for escrito no código
         {
-            Quantidade = 10;
         }
-        public Produto(string nome, double preco) : this()//Construtor com dois argumentos
+        public Produto(string nome, double preco, int quantidade)//construtor com três argumentos
         {
-            Nome = nome;
-            Preco = preco;
-        }
-        public Produto(string nome, double preco, int quantidade) : this(nome, preco)//construtor com três argumentos
-        {
-            Quantidade = quantidade;
+            _nome = nome;
+            _preco = preco;
+            _quantidade = quantidade;
         }
         //Sobrecarga é quando você cria mais de um construtor
 
+        public string GetNome()
+        {
+            return _nome;
+        }
+
+        public void SetNome(string nome)
+        {
+            if (nome != null && nome.Length > 1)
+            {
+                _nome = nome;
+            }
+            else
+            {
+                System.Console.WriteLine("O nome precisa ter mais de um caracter!");
+            }
+        }
+
+        public double GetPreco()
+        {
+            return _preco;
+        }
+        public int GetQuantidade()
+        {
+            return _quantidade;
+        }
+
         public double ValorTotalEmEstoque()
         {
-            return (double) Preco * Quantidade;
+            return (double)_preco * _quantidade;
         }
 
         public void AdicionarProdutos(int quantidade)
         {
-            Quantidade += quantidade;
+            _quantidade += quantidade;
         }
 
         public void RemoverProduto(int quantidade)
         {
-            Quantidade -= quantidade;
+            _quantidade -= quantidade;
         }
 
         public override string ToString()
         {
-            return Nome
+            return _nome
                 + ", $ "
-                + Preco.ToString("F2")
+                + _preco.ToString("F2")
                 + ", "
-                + Quantidade
+                + _quantidade
                 + " unidades, Total: $ "
                 + ValorTotalEmEstoque().ToString("F2");
         }

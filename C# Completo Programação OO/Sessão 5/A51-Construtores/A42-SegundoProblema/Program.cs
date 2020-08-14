@@ -11,36 +11,32 @@ namespace A42_SegundoProblema
             string nome = Console.ReadLine();
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine());
+            Console.Write("Quantidade: ");
+            int quantidade = int.Parse(Console.ReadLine());
             Console.WriteLine();
+            Produto p = new Produto(nome, preco, quantidade);
 
-            Produto a = new Produto(nome, preco);//Instanciar com construtor de dois argumentos
-            Produto b = new Produto();//Instanciar pelo construtor padrão
-            //Outra forma de instanciar a classe mesmo sem construtores seria:
-            //se a caso não tiver o construtor padrão, ele deixa de funcionar.
-            Produto c = new Produto()//Pode ser utilizado com ou sem parênteses
-            {
-                Nome = "TV",
-                Preco = 900.00,
-                Quantidade = 20
-            };
+            Console.WriteLine(p.GetNome());
+            nome = Console.ReadLine();
+            p.SetNome(nome);
 
-            Console.WriteLine("Dados do produto: " + a);
+            Console.WriteLine("Dados do produto: " + p);
             Console.WriteLine();
 
             Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
             int x = int.Parse(Console.ReadLine());
-            a.AdicionarProdutos(x);
+            p.AdicionarProdutos(x);
             Console.WriteLine();
 
-            Console.WriteLine("Dados atualizados: " + a);
+            Console.WriteLine("Dados atualizados: " + p);
             Console.WriteLine();
 
             Console.Write("Digite o número de produtos a ser removido do estoque: ");
             x = int.Parse(Console.ReadLine());
-            a.RemoverProduto(x);
+            p.RemoverProduto(x);
             Console.WriteLine();
 
-            Console.WriteLine("Dados atualizados: " + a);
+            Console.WriteLine("Dados atualizados: " + p);
             Console.WriteLine();
         }
     }
