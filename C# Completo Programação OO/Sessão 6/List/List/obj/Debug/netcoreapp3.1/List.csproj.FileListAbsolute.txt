@@ -1,0 +1,12 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\bin\Debug\netcoreapp3.1\List.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\bin\Debug\netcoreapp3.1\List.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\bin\Debug\netcoreapp3.1\List.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\bin\Debug\netcoreapp3.1\List.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\obj\Debug\netcoreapp3.1\List.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\obj\Debug\netcoreapp3.1\List.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\List\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache

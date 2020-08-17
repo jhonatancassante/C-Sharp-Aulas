@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\bin\Debug\netcoreapp3.1\66-Struct.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\bin\Debug\netcoreapp3.1\66-Struct.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\bin\Debug\netcoreapp3.1\66-Struct.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\bin\Debug\netcoreapp3.1\66-Struct.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\bin\Debug\netcoreapp3.1\66-Struct.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\bin\Debug\netcoreapp3.1\66-Struct.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\obj\Debug\netcoreapp3.1\66-Struct.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\obj\Debug\netcoreapp3.1\66-Struct.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\obj\Debug\netcoreapp3.1\66-Struct.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\obj\Debug\netcoreapp3.1\66-Struct.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\obj\Debug\netcoreapp3.1\66-Struct.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\obj\Debug\netcoreapp3.1\66-Struct.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\66-Struct\66-Struct\obj\Debug\netcoreapp3.1\66-Struct.genruntimeconfig.cache

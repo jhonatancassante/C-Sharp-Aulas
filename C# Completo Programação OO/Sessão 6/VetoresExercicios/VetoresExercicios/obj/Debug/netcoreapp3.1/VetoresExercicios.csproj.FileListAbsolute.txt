@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\bin\Debug\netcoreapp3.1\VetoresExercicios.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\bin\Debug\netcoreapp3.1\VetoresExercicios.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\bin\Debug\netcoreapp3.1\VetoresExercicios.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\bin\Debug\netcoreapp3.1\VetoresExercicios.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\bin\Debug\netcoreapp3.1\VetoresExercicios.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\bin\Debug\netcoreapp3.1\VetoresExercicios.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\obj\Debug\netcoreapp3.1\VetoresExercicios.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\obj\Debug\netcoreapp3.1\VetoresExercicios.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\obj\Debug\netcoreapp3.1\VetoresExercicios.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\obj\Debug\netcoreapp3.1\VetoresExercicios.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\obj\Debug\netcoreapp3.1\VetoresExercicios.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\obj\Debug\netcoreapp3.1\VetoresExercicios.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\VetoresExercicios\VetoresExercicios\obj\Debug\netcoreapp3.1\VetoresExercicios.genruntimeconfig.cache
