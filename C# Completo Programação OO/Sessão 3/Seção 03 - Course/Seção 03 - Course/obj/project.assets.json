@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Seção 03 - Course\\Seção 03 - Course\\Seção 03 - Course.csproj",
+      "projectUniqueName": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Sessão 3\\Seção 03 - Course\\Seção 03 - Course\\Seção 03 - Course.csproj",
       "projectName": "Seção 03 - Course",
-      "projectPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Seção 03 - Course\\Seção 03 - Course\\Seção 03 - Course.csproj",
+      "projectPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Sessão 3\\Seção 03 - Course\\Seção 03 - Course\\Seção 03 - Course.csproj",
       "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Seção 03 - Course\\Seção 03 - Course\\obj\\",
+      "outputPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Sessão 3\\Seção 03 - Course\\Seção 03 - Course\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

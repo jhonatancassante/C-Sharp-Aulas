@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\bin\Debug\netcoreapp3.1\MatrizExercicioResolvido.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\bin\Debug\netcoreapp3.1\MatrizExercicioResolvido.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\bin\Debug\netcoreapp3.1\MatrizExercicioResolvido.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\bin\Debug\netcoreapp3.1\MatrizExercicioResolvido.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\bin\Debug\netcoreapp3.1\MatrizExercicioResolvido.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\bin\Debug\netcoreapp3.1\MatrizExercicioResolvido.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\obj\Debug\netcoreapp3.1\MatrizExercicioResolvido.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\obj\Debug\netcoreapp3.1\MatrizExercicioResolvido.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\obj\Debug\netcoreapp3.1\MatrizExercicioResolvido.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\obj\Debug\netcoreapp3.1\MatrizExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\obj\Debug\netcoreapp3.1\MatrizExercicioResolvido.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\obj\Debug\netcoreapp3.1\MatrizExercicioResolvido.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\MatrizExercicioResolvido\MatrizExercicioResolvido\obj\Debug\netcoreapp3.1\MatrizExercicioResolvido.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jhonatan\\OneDrive\\Udemy\\C# Completo Programação OO\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa.csproj": {}
+    "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Sessão 2\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jhonatan\\OneDrive\\Udemy\\C# Completo Programação OO\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa.csproj": {
+    "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Sessão 2\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jhonatan\\OneDrive\\Udemy\\C# Completo Programação OO\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa.csproj",
+        "projectUniqueName": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Sessão 2\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa.csproj",
         "projectName": "Secão 2 - Primeiro Programa",
-        "projectPath": "C:\\Users\\Jhonatan\\OneDrive\\Udemy\\C# Completo Programação OO\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa.csproj",
+        "projectPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Sessão 2\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa.csproj",
         "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jhonatan\\OneDrive\\Udemy\\C# Completo Programação OO\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa\\obj\\",
+        "outputPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Sessão 2\\Secão 2 - Primeiro Programa\\Secão 2 - Primeiro Programa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

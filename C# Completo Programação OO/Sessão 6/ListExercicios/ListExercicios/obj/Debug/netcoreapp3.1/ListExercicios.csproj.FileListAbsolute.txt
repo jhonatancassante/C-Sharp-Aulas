@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\bin\Debug\netcoreapp3.1\ListExercicios.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\bin\Debug\netcoreapp3.1\ListExercicios.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\bin\Debug\netcoreapp3.1\ListExercicios.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\bin\Debug\netcoreapp3.1\ListExercicios.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\bin\Debug\netcoreapp3.1\ListExercicios.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\bin\Debug\netcoreapp3.1\ListExercicios.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\obj\Debug\netcoreapp3.1\ListExercicios.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\obj\Debug\netcoreapp3.1\ListExercicios.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\obj\Debug\netcoreapp3.1\ListExercicios.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\obj\Debug\netcoreapp3.1\ListExercicios.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\obj\Debug\netcoreapp3.1\ListExercicios.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\obj\Debug\netcoreapp3.1\ListExercicios.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\ListExercicios\ListExercicios\obj\Debug\netcoreapp3.1\ListExercicios.genruntimeconfig.cache

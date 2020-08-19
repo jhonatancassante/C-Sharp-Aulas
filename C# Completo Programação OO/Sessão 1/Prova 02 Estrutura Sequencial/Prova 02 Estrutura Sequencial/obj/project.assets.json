@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jhonatan\\OneDrive\\Udemy\\C# Completo Programação OO\\Prova 02 Estrutura Sequencial\\Prova 02 Estrutura Sequencial\\Prova 02 Estrutura Sequencial.csproj",
+      "projectUniqueName": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Sessão 1\\Prova 02 Estrutura Sequencial\\Prova 02 Estrutura Sequencial\\Prova 02 Estrutura Sequencial.csproj",
       "projectName": "Prova 02 Estrutura Sequencial",
-      "projectPath": "C:\\Users\\Jhonatan\\OneDrive\\Udemy\\C# Completo Programação OO\\Prova 02 Estrutura Sequencial\\Prova 02 Estrutura Sequencial\\Prova 02 Estrutura Sequencial.csproj",
+      "projectPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Sessão 1\\Prova 02 Estrutura Sequencial\\Prova 02 Estrutura Sequencial\\Prova 02 Estrutura Sequencial.csproj",
       "packagesPath": "C:\\Users\\Jhonatan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jhonatan\\OneDrive\\Udemy\\C# Completo Programação OO\\Prova 02 Estrutura Sequencial\\Prova 02 Estrutura Sequencial\\obj\\",
+      "outputPath": "C:\\Users\\Jhonatan\\OneDrive\\Aulas Programação\\Udemy\\C-Sharp\\C# Completo Programação OO\\Sessão 1\\Prova 02 Estrutura Sequencial\\Prova 02 Estrutura Sequencial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jhonatan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

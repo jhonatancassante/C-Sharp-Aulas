@@ -1,0 +1,13 @@
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.exe
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.deps.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.runtimeconfig.dev.json
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\bin\Debug\netcoreapp3.1\Matriz.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csprojAssemblyReference.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.AssemblyInfo.cs
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.dll
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.pdb
+C:\Users\Jhonatan\OneDrive\Aulas Programação\Udemy\C-Sharp\C# Completo Programação OO\Sessão 6\Matriz\Matriz\obj\Debug\netcoreapp3.1\Matriz.genruntimeconfig.cache
